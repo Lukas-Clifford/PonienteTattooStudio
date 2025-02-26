@@ -12,3 +12,4 @@ Como primer contacto, hicimos un meeting para hablar de los proyectos a realizar
 
 ![{9B6B35CC-66F8-4A39-A0B0-6D303EB74FE9}](https://github.com/user-attachments/assets/58b44844-6010-44e0-97b4-ba9ea752853c)
 
+Está pendiente de hacer el segundo meeting para avanzar con el desarrollo.
